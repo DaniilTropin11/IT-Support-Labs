@@ -40,7 +40,7 @@
   - [UserParameters](https://www.zabbix.com/documentation/current/en/manual/config/items/userparameters)  
   - [Low-Level Discovery](https://www.zabbix.com/documentation/current/en/manual/discovery/low_level_discovery)
 
----
+--
 
 ## 📊 Оценивание
 
